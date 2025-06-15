@@ -1,0 +1,14 @@
+[
+  {
+    "text": "goblin1",
+    "done": false
+  },
+  {
+    "text": "apple",
+    "done": true
+  },
+  {
+    "text": "pineapple",
+    "done": true
+  }
+]
